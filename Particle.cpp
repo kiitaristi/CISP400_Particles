@@ -69,7 +69,7 @@ void Particle::update(float dt)
 	m_vy = m_vy - (G * dt);
 	float dy = m_vy * dt;
 
-	translate(dy, dx);
+	translate(dx, dy);
 }
 
 bool Particle::almostEqual(double a, double b, double eps)
