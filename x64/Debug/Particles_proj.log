@@ -1,0 +1,30 @@
+﻿  Particle.cpp
+C:\Users\jjsel\source\repos\Particles_proj\Particle.h(7,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jjsel\source\repos\Particles_proj\Particle.h(10,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jjsel\source\repos\Particles_proj\Particle.cpp(15,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jjsel\source\repos\Particles_proj\Particle.cpp(15,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\jjsel\source\repos\Particles_proj\Particle.cpp(51,42): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jjsel\source\repos\Particles_proj\Particle.cpp(51,27): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jjsel\source\repos\Particles_proj\Particle.cpp(111,26): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jjsel\source\repos\Particles_proj\Particle.cpp(112,26): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Particles_proj.vcxproj -> C:\Users\jjsel\source\repos\Particles_proj\x64\Debug\Particles_proj.exe
